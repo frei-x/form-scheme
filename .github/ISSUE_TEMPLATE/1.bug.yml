@@ -5,6 +5,7 @@ assignees:
   - weihongbin1
 title: Issue标题
 body:
+  - type: 111
     attributes:
       value: |
         # 这里是 Markdown 表单
