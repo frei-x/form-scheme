@@ -6,6 +6,7 @@ assignees:
 title: Issue标题
 body:
   - type: textarea
+    label: 标签
     attributes:
       value: |
         # 这里是 Markdown 表单
