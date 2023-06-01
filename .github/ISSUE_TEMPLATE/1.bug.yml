@@ -1,6 +1,6 @@
 name: 测试Issue模版名字
 description: Issue模版描述
-labels: ["bug"]
+labels: 'bug, invalid'
 assignees: 'frei-x'
 title: Issue标题
 body:
