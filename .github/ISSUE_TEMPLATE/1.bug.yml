@@ -16,9 +16,9 @@ body:
       label: 多选框
       description: 多选框提示
       options:
-        - label: 选择内容1
+        - label: # 选择内容1
           required: true
-        - label: 选择内容2 非必选
+        - label:  [打开链接](https://baidu.com)
           required: false
   - type: textarea
     id: my-textarea
