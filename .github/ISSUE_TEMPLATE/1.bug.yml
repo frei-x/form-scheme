@@ -22,6 +22,10 @@ body:
           required: false
         - label:  "> 引用"
           required: false
+        - label:  "*斜体*"
+          required: false        
+        - label:  "*粗体*"
+          required: false               
   - type: textarea
     id: my-textarea
     attributes:
